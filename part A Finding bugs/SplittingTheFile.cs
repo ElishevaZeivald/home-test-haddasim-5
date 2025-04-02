@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace part_A_Finding_bugs
+namespace part_A
 {
     internal class SplittingTheFile
     {

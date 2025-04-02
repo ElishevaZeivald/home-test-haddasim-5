@@ -1,4 +1,4 @@
-﻿using part_A_Finding_bugs;
+﻿using part_A;
 using System;
 using System.IO;
 
