@@ -10,7 +10,7 @@ namespace part_A_Finding_bugs
     {
         //1
         const int LINES_PER_FILE = 1000;
-        private const string OUTPUT_FOLDER = "split_logs"; 
+        private const string OUTPUT_FOLDER = "split_logs";
         public static void SplitFile(string inputFile)
         {
             Directory.CreateDirectory(OUTPUT_FOLDER);
