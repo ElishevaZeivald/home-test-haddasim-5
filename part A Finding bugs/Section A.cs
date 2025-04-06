@@ -68,7 +68,7 @@ namespace part_A
         //O(n log n)
         //ואחכ מבצעים חיתוך של חמשת הקודים עם שכיחות השגיאה הגבוהה ביותר שזה מתבצע בסיבוכיות 
         //O(1)
-        //כי חותכים מספר מסוים וקטן של איברים מה
+        //-כי חותכים מספר מסוים וקטן של איברים מה
         //dictionary
 
         public static void CountErrorsInFile(string filePath, Dictionary<string, int> globalCounts)

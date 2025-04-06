@@ -82,7 +82,7 @@ namespace part_A
                     if (dates.ContainsKey(time))
                     {
                         dates[time]++;
-                          Console.WriteLine("there are duplicate dates at this file");
+                          Console.WriteLine("there are duplicate dates in this file");
                         return true;
                     }
                     else
