@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace part_A
 {
-    internal class SplittingTheFile
-    {
+    internal class Section_A
+    { 
         //1
         const int LINES_PER_FILE = 1000;
         private const string OUTPUT_FOLDER = "split_logs";
