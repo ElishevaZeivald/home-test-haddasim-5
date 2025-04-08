@@ -1,0 +1,15 @@
+C:\אלישבע\מבחן בית הדסים 5\part D\grocery\DALgrocery\bin\Debug\net7.0\DALgrocery.deps.json
+C:\אלישבע\מבחן בית הדסים 5\part D\grocery\DALgrocery\bin\Debug\net7.0\DALgrocery.dll
+C:\אלישבע\מבחן בית הדסים 5\part D\grocery\DALgrocery\bin\Debug\net7.0\DALgrocery.pdb
+C:\אלישבע\מבחן בית הדסים 5\part D\grocery\DALgrocery\obj\Debug\net7.0\DALgrocery.csproj.AssemblyReference.cache
+C:\אלישבע\מבחן בית הדסים 5\part D\grocery\DALgrocery\obj\Debug\net7.0\DALgrocery.GeneratedMSBuildEditorConfig.editorconfig
+C:\אלישבע\מבחן בית הדסים 5\part D\grocery\DALgrocery\obj\Debug\net7.0\DALgrocery.AssemblyInfoInputs.cache
+C:\אלישבע\מבחן בית הדסים 5\part D\grocery\DALgrocery\obj\Debug\net7.0\DALgrocery.AssemblyInfo.cs
+C:\אלישבע\מבחן בית הדסים 5\part D\grocery\DALgrocery\obj\Debug\net7.0\DALgrocery.csproj.CoreCompileInputs.cache
+C:\אלישבע\מבחן בית הדסים 5\part D\grocery\DALgrocery\obj\Debug\net7.0\DALgrocery.sourcelink.json
+C:\אלישבע\מבחן בית הדסים 5\part D\grocery\DALgrocery\obj\Debug\net7.0\DALgrocery.dll
+C:\אלישבע\מבחן בית הדסים 5\part D\grocery\DALgrocery\obj\Debug\net7.0\refint\DALgrocery.dll
+C:\אלישבע\מבחן בית הדסים 5\part D\grocery\DALgrocery\obj\Debug\net7.0\DALgrocery.pdb
+C:\אלישבע\מבחן בית הדסים 5\part D\grocery\DALgrocery\obj\Debug\net7.0\ref\DALgrocery.dll
+C:\אלישבע\מבחן בית הדסים 5\part D\grocery\DALgrocery\bin\Debug\net7.0\DALgrocery.runtimeconfig.json
+C:\אלישבע\מבחן בית הדסים 5\part D\grocery\DALgrocery\obj\Debug\net7.0\DALgrocery.genruntimeconfig.cache
