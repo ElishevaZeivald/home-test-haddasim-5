@@ -106,52 +106,55 @@ namespace part_A
         //2
         public static void AvgPerHour(string inputFile)
         {
-            if (!DuplicateDates(inputFile))
+            if (inputFile.EndsWith(".csv"))
             {
-                double[,] valuesSum = new double[24, 32];
-                double[,] counter = new double[24, 32];
-                string[] lines = File.ReadAllLines(RemoveInvalidValue(inputFile));
-                Dictionary<DateTime, double> avgValue = new Dictionary<DateTime, double>();
-                int year = 0;
-                int month = 0;
-                DateTime time;
-                for (int i = 1; i < lines.Length; i++)
+                if (!DuplicateDates(inputFile))
                 {
-                    string line = lines[i];
-                    string[] parts = line.Split(",");
-                    time = DateTime.Parse(parts[0]);
-                    if (year == 0) // נשלוף את השנה והחודש רק פעם אחת
+                    double[,] valuesSum = new double[24, 32];
+                    double[,] counter = new double[24, 32];
+                    string[] lines = File.ReadAllLines(RemoveInvalidValue(inputFile));
+                    Dictionary<DateTime, double> avgValue = new Dictionary<DateTime, double>();
+                    int year = 0;
+                    int month = 0;
+                    DateTime time;
+                    for (int i = 1; i < lines.Length; i++)
                     {
-                        year = time.Year;
-                        month = time.Month;
+                        string line = lines[i];
+                        string[] parts = line.Split(",");
+                        time = DateTime.Parse(parts[0]);
+                        if (year == 0) // נשלוף את השנה והחודש רק פעם אחת
+                        {
+                            year = time.Year;
+                            month = time.Month;
+                        }
+
+                        int hour = time.Hour;
+                        int day = time.Day;
+                        valuesSum[hour, day] += double.Parse(parts[1]);
+                        counter[hour, day]++;
+
                     }
 
-                    int hour = time.Hour;
-                    int day = time.Day;
-                    valuesSum[hour, day] += double.Parse(parts[1]);
-                    counter[hour, day]++;
-
-                }
-
-                // חישוב ממוצע לכל שעה ביום
-                for (int day = 1; day <= 31; day++)
-                {
-                    for (int hour = 0; hour < 24; hour++)
+                    // חישוב ממוצע לכל שעה ביום
+                    for (int day = 1; day <= 31; day++)
                     {
-                        if (counter[hour, day] > 0)  // אם יש לפחות ערך אחד עבור השעה הזו
+                        for (int hour = 0; hour < 24; hour++)
                         {
-                            double val = valuesSum[hour, day];
-                            double count = counter[hour, day];
-                            DateTime date = new DateTime(year, month, day, hour, 0, 0);
-                            avgValue.Add(date, val / count);  // הוספת הממוצע לדיקציהרי
+                            if (counter[hour, day] > 0)  // אם יש לפחות ערך אחד עבור השעה הזו
+                            {
+                                double val = valuesSum[hour, day];
+                                double count = counter[hour, day];
+                                DateTime date = new DateTime(year, month, day, hour, 0, 0);
+                                avgValue.Add(date, val / count);  // הוספת הממוצע לדיקציהרי
+                            }
                         }
                     }
-                }
 
-                // הדפסת התוצאות של הממוצעים
-                foreach (var a in avgValue)
-                {
-                    Console.WriteLine($"זמן התחלה: {a.Key}, ממוצע: {a.Value}");
+                    // הדפסת התוצאות של הממוצעים
+                    foreach (var a in avgValue)
+                    {
+                        Console.WriteLine($"זמן התחלה: {a.Key}, ממוצע: {a.Value}");
+                    }
                 }
             }
         }
