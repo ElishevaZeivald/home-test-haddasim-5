@@ -127,8 +127,6 @@ namespace part_A
                         year = time.Year;
                         month = time.Month;
 
-                        /*   year = 2025;
-                       month = 6;*/
                         DateTime date = new DateTime(year, month, j, i, 0, 0);
                         double val = valuesSum[i, j];
                         double count = counter[i, j];

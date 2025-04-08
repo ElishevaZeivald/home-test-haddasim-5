@@ -54,7 +54,7 @@ namespace part_A
             {
                 CountErrorsInFile(file, errorsCount);
             }
-            var topErrors = errorsCount.OrderByDescending(kv => kv.Value).Take(TOP_N_ERRORS);
+            var topErrors = errorsCount.OrderByDescending(errorVal => errorVal.Value).Take(TOP_N_ERRORS);
 
             Console.WriteLine($"{TOP_N_ERRORS} Most common error codes:");
             foreach (var error in topErrors)
