@@ -14,8 +14,10 @@ namespace BLLgrocery.BLmodel
         public string Status { get; set; }
 
         public int SupplierId { get; set; }
-        public Supplier Supplier { get; set; }
+        public BLsupplier Supplier { get; set; }
 
-        public List<OrderItem> Items { get; set; } = new List<OrderItem>();
+        public List<BLorderItem> Items { get; set; } = new List<BLorderItem>();
+        public decimal TotalPrice => Items.Sum(item => item.Product.PricePerItem * item.Quantity);
+
     }
 }

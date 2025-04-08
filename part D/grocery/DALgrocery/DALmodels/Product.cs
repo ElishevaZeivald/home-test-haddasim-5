@@ -16,5 +16,7 @@ namespace DALgrocery.DALmodels
 
         public int SupplierId { get; set; }
         public Supplier Supplier { get; set; }
+        public int minQuantity { get; set; }
+
     }
 }

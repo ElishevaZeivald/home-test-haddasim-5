@@ -5,6 +5,8 @@ using System.Linq;
 using System.Reflection.Metadata;
 using System.Text;
 using System.Threading.Tasks;
+using Parquet;
+using Parquet.Data;
 
 namespace part_A
 {
@@ -21,7 +23,11 @@ namespace part_A
                 string line = lines[i];
                 string[] parts = line.Split(',');
                 if (!DateTime.TryParse(parts[0], out DateTime date))
+                {
                     Console.WriteLine("there is invalid date in that file");
+                    lines[i] = lines[i+1];
+                    i++;
+                }
                 return false;
             }
 
@@ -83,7 +89,7 @@ namespace part_A
                     if (dates.ContainsKey(time))
                     {
                         dates[time]++;
-                       // Console.WriteLine("there are duplicate dates in this file");
+                        // Console.WriteLine("there are duplicate dates in this file");
                         return true;
                     }
                     else

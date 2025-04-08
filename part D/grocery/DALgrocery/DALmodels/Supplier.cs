@@ -9,6 +9,7 @@ namespace DALgrocery.DALmodels
     public class Supplier
     {
         public int Id { get; set; }
+        public User User { get; set; }
         public string CompanyName { get; set; }
         public string PhoneNumber { get; set; }
         public string RepresentativeName { get; set; }

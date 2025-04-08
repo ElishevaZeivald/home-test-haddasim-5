@@ -3,20 +3,60 @@
   "WorkspaceRootPath": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{50E5987D-42AE-4450-9590-4C5B71473328}|DALgrocery\\DALgrocery.csproj|c:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part d\\grocery\\dalgrocery\\dalrepository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E5987D-42AE-4450-9590-4C5B71473328}|DALgrocery\\DALgrocery.csproj|solutionrelative:dalgrocery\\dalrepository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E5987D-42AE-4450-9590-4C5B71473328}|DALgrocery\\DALgrocery.csproj|c:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part d\\grocery\\dalgrocery\\dalrepository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E5987D-42AE-4450-9590-4C5B71473328}|DALgrocery\\DALgrocery.csproj|solutionrelative:dalgrocery\\dalrepository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E5987D-42AE-4450-9590-4C5B71473328}|DALgrocery\\DALgrocery.csproj|c:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part d\\grocery\\dalgrocery\\dalgrocery.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50E5987D-42AE-4450-9590-4C5B71473328}|DALgrocery\\DALgrocery.csproj|solutionrelative:dalgrocery\\dalgrocery.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E5987D-42AE-4450-9590-4C5B71473328}|DALgrocery\\DALgrocery.csproj|c:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part d\\grocery\\dalgrocery\\dalirepository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E5987D-42AE-4450-9590-4C5B71473328}|DALgrocery\\DALgrocery.csproj|solutionrelative:dalgrocery\\dalirepository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E5987D-42AE-4450-9590-4C5B71473328}|DALgrocery\\DALgrocery.csproj|c:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part d\\grocery\\dalgrocery\\dalirepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E5987D-42AE-4450-9590-4C5B71473328}|DALgrocery\\DALgrocery.csproj|solutionrelative:dalgrocery\\dalirepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE812B3A-5CEC-4E12-B51C-B677AB972F29}|BLLgrocery\\BLLgrocery.csproj|c:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part d\\grocery\\bllgrocery\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE812B3A-5CEC-4E12-B51C-B677AB972F29}|BLLgrocery\\BLLgrocery.csproj|solutionrelative:bllgrocery\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE812B3A-5CEC-4E12-B51C-B677AB972F29}|BLLgrocery\\BLLgrocery.csproj|c:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part d\\grocery\\bllgrocery\\blmanager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE812B3A-5CEC-4E12-B51C-B677AB972F29}|BLLgrocery\\BLLgrocery.csproj|solutionrelative:bllgrocery\\blmanager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE812B3A-5CEC-4E12-B51C-B677AB972F29}|BLLgrocery\\BLLgrocery.csproj|c:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part d\\grocery\\bllgrocery\\blmodels\\blsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE812B3A-5CEC-4E12-B51C-B677AB972F29}|BLLgrocery\\BLLgrocery.csproj|solutionrelative:bllgrocery\\blmodels\\blsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE812B3A-5CEC-4E12-B51C-B677AB972F29}|BLLgrocery\\BLLgrocery.csproj|c:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part d\\grocery\\bllgrocery\\blmodels\\blproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE812B3A-5CEC-4E12-B51C-B677AB972F29}|BLLgrocery\\BLLgrocery.csproj|solutionrelative:bllgrocery\\blmodels\\blproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE812B3A-5CEC-4E12-B51C-B677AB972F29}|BLLgrocery\\BLLgrocery.csproj|c:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part d\\grocery\\bllgrocery\\blmodels\\blorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE812B3A-5CEC-4E12-B51C-B677AB972F29}|BLLgrocery\\BLLgrocery.csproj|solutionrelative:bllgrocery\\blmodels\\blorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E5987D-42AE-4450-9590-4C5B71473328}|DALgrocery\\DALgrocery.csproj|c:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part d\\grocery\\dalgrocery\\dalmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E5987D-42AE-4450-9590-4C5B71473328}|DALgrocery\\DALgrocery.csproj|solutionrelative:dalgrocery\\dalmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E5987D-42AE-4450-9590-4C5B71473328}|DALgrocery\\DALgrocery.csproj|c:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part d\\grocery\\dalgrocery\\dalmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E5987D-42AE-4450-9590-4C5B71473328}|DALgrocery\\DALgrocery.csproj|solutionrelative:dalgrocery\\dalmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CE812B3A-5CEC-4E12-B51C-B677AB972F29}|BLLgrocery\\BLLgrocery.csproj|c:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part d\\grocery\\bllgrocery\\blapi\\iblsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE812B3A-5CEC-4E12-B51C-B677AB972F29}|BLLgrocery\\BLLgrocery.csproj|solutionrelative:bllgrocery\\blapi\\iblsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE812B3A-5CEC-4E12-B51C-B677AB972F29}|BLLgrocery\\BLLgrocery.csproj|c:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part d\\grocery\\bllgrocery\\blapi\\iblproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE812B3A-5CEC-4E12-B51C-B677AB972F29}|BLLgrocery\\BLLgrocery.csproj|solutionrelative:bllgrocery\\blapi\\iblproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE812B3A-5CEC-4E12-B51C-B677AB972F29}|BLLgrocery\\BLLgrocery.csproj|c:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part d\\grocery\\bllgrocery\\blmodels\\blorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE812B3A-5CEC-4E12-B51C-B677AB972F29}|BLLgrocery\\BLLgrocery.csproj|solutionrelative:bllgrocery\\blmodels\\blorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50E5987D-42AE-4450-9590-4C5B71473328}|DALgrocery\\DALgrocery.csproj|c:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part d\\grocery\\dalgrocery\\dalmodels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50E5987D-42AE-4450-9590-4C5B71473328}|DALgrocery\\DALgrocery.csproj|solutionrelative:dalgrocery\\dalmodels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE812B3A-5CEC-4E12-B51C-B677AB972F29}|BLLgrocery\\BLLgrocery.csproj|c:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part d\\grocery\\bllgrocery\\blapi\\iblorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,26 +71,6 @@
       "RelativeMoniker": "D:0:0:{CE812B3A-5CEC-4E12-B51C-B677AB972F29}|BLLgrocery\\BLLgrocery.csproj|solutionrelative:bllgrocery\\blapi\\ibluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE812B3A-5CEC-4E12-B51C-B677AB972F29}|BLLgrocery\\BLLgrocery.csproj|c:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part d\\grocery\\bllgrocery\\blmodels\\blorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE812B3A-5CEC-4E12-B51C-B677AB972F29}|BLLgrocery\\BLLgrocery.csproj|solutionrelative:bllgrocery\\blmodels\\blorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE812B3A-5CEC-4E12-B51C-B677AB972F29}|BLLgrocery\\BLLgrocery.csproj|c:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part d\\grocery\\bllgrocery\\blmodels\\blproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE812B3A-5CEC-4E12-B51C-B677AB972F29}|BLLgrocery\\BLLgrocery.csproj|solutionrelative:bllgrocery\\blmodels\\blproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE812B3A-5CEC-4E12-B51C-B677AB972F29}|BLLgrocery\\BLLgrocery.csproj|c:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part d\\grocery\\bllgrocery\\blmodels\\blsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE812B3A-5CEC-4E12-B51C-B677AB972F29}|BLLgrocery\\BLLgrocery.csproj|solutionrelative:bllgrocery\\blmodels\\blsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE812B3A-5CEC-4E12-B51C-B677AB972F29}|BLLgrocery\\BLLgrocery.csproj|c:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part d\\grocery\\bllgrocery\\blmodels\\bluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE812B3A-5CEC-4E12-B51C-B677AB972F29}|BLLgrocery\\BLLgrocery.csproj|solutionrelative:bllgrocery\\blmodels\\bluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50E5987D-42AE-4450-9590-4C5B71473328}|DALgrocery\\DALgrocery.csproj|c:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part d\\grocery\\dalgrocery\\dalmodels\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50E5987D-42AE-4450-9590-4C5B71473328}|DALgrocery\\DALgrocery.csproj|solutionrelative:dalgrocery\\dalmodels\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{38552B61-7C79-4520-8184-138FB14A217D}|grocery\\grocery.csproj|c:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part d\\grocery\\grocery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38552B61-7C79-4520-8184-138FB14A217D}|grocery\\grocery.csproj|solutionrelative:grocery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,16 +79,8 @@
       "RelativeMoniker": "D:0:0:{50E5987D-42AE-4450-9590-4C5B71473328}|DALgrocery\\DALgrocery.csproj|solutionrelative:dalgrocery\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\Migrations\\20250407202240_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DALgrocery\\Migrations\\20250407202240_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50E5987D-42AE-4450-9590-4C5B71473328}|DALgrocery\\DALgrocery.csproj|c:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part d\\grocery\\dalgrocery\\dalmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50E5987D-42AE-4450-9590-4C5B71473328}|DALgrocery\\DALgrocery.csproj|solutionrelative:dalgrocery\\dalmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50E5987D-42AE-4450-9590-4C5B71473328}|DALgrocery\\DALgrocery.csproj|c:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part d\\grocery\\dalgrocery\\dalmodels\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50E5987D-42AE-4450-9590-4C5B71473328}|DALgrocery\\DALgrocery.csproj|solutionrelative:dalgrocery\\dalmodels\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50E5987D-42AE-4450-9590-4C5B71473328}|DALgrocery\\DALgrocery.csproj|c:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part d\\grocery\\dalgrocery\\migrations\\20250407202240_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E5987D-42AE-4450-9590-4C5B71473328}|DALgrocery\\DALgrocery.csproj|solutionrelative:dalgrocery\\migrations\\20250407202240_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,128 +90,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IBLuser.cs",
-              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLapi\\IBLuser.cs",
-              "RelativeDocumentMoniker": "BLLgrocery\\BLapi\\IBLuser.cs",
-              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLapi\\IBLuser.cs",
-              "RelativeToolTip": "BLLgrocery\\BLapi\\IBLuser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T23:41:35.175Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IBLsupplier.cs",
-              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLapi\\IBLsupplier.cs",
-              "RelativeDocumentMoniker": "BLLgrocery\\BLapi\\IBLsupplier.cs",
-              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLapi\\IBLsupplier.cs",
-              "RelativeToolTip": "BLLgrocery\\BLapi\\IBLsupplier.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\DALrepository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "DALgrocery\\DALrepository\\OrderRepository.cs",
+              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\DALrepository\\OrderRepository.cs",
+              "RelativeToolTip": "DALgrocery\\DALrepository\\OrderRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwDEAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T23:41:21.018Z",
+              "WhenOpened": "2025-04-08T19:33:52.266Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IBLproduct.cs",
-              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLapi\\IBLproduct.cs",
-              "RelativeDocumentMoniker": "BLLgrocery\\BLapi\\IBLproduct.cs",
-              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLapi\\IBLproduct.cs",
-              "RelativeToolTip": "BLLgrocery\\BLapi\\IBLproduct.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\DALrepository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DALgrocery\\DALrepository\\UserRepository.cs",
+              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\DALrepository\\UserRepository.cs",
+              "RelativeToolTip": "DALgrocery\\DALrepository\\UserRepository.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADYAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T23:41:04.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IBLorderItem.cs",
-              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLapi\\IBLorderItem.cs",
-              "RelativeDocumentMoniker": "BLLgrocery\\BLapi\\IBLorderItem.cs",
-              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLapi\\IBLorderItem.cs",
-              "RelativeToolTip": "BLLgrocery\\BLapi\\IBLorderItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T23:40:47.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IBLorder.cs",
-              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLapi\\IBLorder.cs",
-              "RelativeDocumentMoniker": "BLLgrocery\\BLapi\\IBLorder.cs",
-              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLapi\\IBLorder.cs",
-              "RelativeToolTip": "BLLgrocery\\BLapi\\IBLorder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T23:40:24.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BLorder.cs",
-              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLmodels\\BLorder.cs",
-              "RelativeDocumentMoniker": "BLLgrocery\\BLmodels\\BLorder.cs",
-              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLmodels\\BLorder.cs",
-              "RelativeToolTip": "BLLgrocery\\BLmodels\\BLorder.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T23:36:32.806Z",
+              "WhenOpened": "2025-04-08T19:30:35.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\DALmodels\\Order.cs",
-              "RelativeDocumentMoniker": "DALgrocery\\DALmodels\\Order.cs",
-              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\DALmodels\\Order.cs",
-              "RelativeToolTip": "DALgrocery\\DALmodels\\Order.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\DALIrepository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "DALgrocery\\DALIrepository\\IOrderRepository.cs",
+              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\DALIrepository\\IOrderRepository.cs",
+              "RelativeToolTip": "DALgrocery\\DALIrepository\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T19:34:02.043Z",
+              "WhenOpened": "2025-04-08T19:28:25.96Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BLuser.cs",
-              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLmodels\\BLuser.cs",
-              "RelativeDocumentMoniker": "BLLgrocery\\BLmodels\\BLuser.cs",
-              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLmodels\\BLuser.cs",
-              "RelativeToolTip": "BLLgrocery\\BLmodels\\BLuser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "DocumentIndex": 4,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\DALIrepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DALgrocery\\DALIrepository\\IUserRepository.cs",
+              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\DALIrepository\\IUserRepository.cs",
+              "RelativeToolTip": "DALgrocery\\DALIrepository\\IUserRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T23:38:32.403Z",
+              "WhenOpened": "2025-04-08T19:26:36.194Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "DALgrocery",
+              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\DALgrocery.csproj",
+              "RelativeDocumentMoniker": "DALgrocery\\DALgrocery.csproj",
+              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\DALgrocery.csproj",
+              "RelativeToolTip": "DALgrocery\\DALgrocery.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T19:25:36.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLmanager\\UserManager.cs",
+              "RelativeDocumentMoniker": "BLLgrocery\\BLmanager\\UserManager.cs",
+              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLmanager\\UserManager.cs",
+              "RelativeToolTip": "BLLgrocery\\BLmanager\\UserManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:22:29.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "BLsupplier.cs",
               "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLmodels\\BLsupplier.cs",
               "RelativeDocumentMoniker": "BLLgrocery\\BLmodels\\BLsupplier.cs",
               "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLmodels\\BLsupplier.cs",
               "RelativeToolTip": "BLLgrocery\\BLmodels\\BLsupplier.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T23:37:48.886Z",
+              "WhenOpened": "2025-04-08T18:12:36.315Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BLorderItem.cs",
+              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLmodels\\BLorderItem.cs",
+              "RelativeDocumentMoniker": "BLLgrocery\\BLmodels\\BLorderItem.cs",
+              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLmodels\\BLorderItem.cs",
+              "RelativeToolTip": "BLLgrocery\\BLmodels\\BLorderItem.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:12:27.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\Mapper.cs",
+              "RelativeDocumentMoniker": "BLLgrocery\\Mapper.cs",
+              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\Mapper.cs",
+              "RelativeToolTip": "BLLgrocery\\Mapper.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAGYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:48:31.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\DALmodels\\Product.cs",
+              "RelativeDocumentMoniker": "DALgrocery\\DALmodels\\Product.cs",
+              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\DALmodels\\Product.cs",
+              "RelativeToolTip": "DALgrocery\\DALmodels\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAawBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:22:35.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -209,53 +234,14 @@
               "RelativeDocumentMoniker": "BLLgrocery\\BLmodels\\BLproduct.cs",
               "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLmodels\\BLproduct.cs",
               "RelativeToolTip": "BLLgrocery\\BLmodels\\BLproduct.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T23:37:27.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BLorderItem.cs",
-              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLmodels\\BLorderItem.cs",
-              "RelativeDocumentMoniker": "BLLgrocery\\BLmodels\\BLorderItem.cs",
-              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLmodels\\BLorderItem.cs",
-              "RelativeToolTip": "BLLgrocery\\BLmodels\\BLorderItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T23:36:54.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "DALgrocery\\AppDbContext.cs",
-              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\AppDbContext.cs",
-              "RelativeToolTip": "DALgrocery\\AppDbContext.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAnwBsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T20:30:05.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20250407202240_InitialCreate.cs",
-              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\Migrations\\20250407202240_InitialCreate.cs",
-              "RelativeDocumentMoniker": "DALgrocery\\Migrations\\20250407202240_InitialCreate.cs",
-              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\Migrations\\20250407202240_InitialCreate.cs",
-              "RelativeToolTip": "DALgrocery\\Migrations\\20250407202240_InitialCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T20:22:41.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 11,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\DALmodels\\User.cs",
               "RelativeDocumentMoniker": "DALgrocery\\DALmodels\\User.cs",
@@ -268,20 +254,92 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\DALmodels\\OrderItem.cs",
-              "RelativeDocumentMoniker": "DALgrocery\\DALmodels\\OrderItem.cs",
-              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\DALmodels\\OrderItem.cs",
-              "RelativeToolTip": "DALgrocery\\DALmodels\\OrderItem.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "DocumentIndex": 12,
+              "Title": "IBLsupplier.cs",
+              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLapi\\IBLsupplier.cs",
+              "RelativeDocumentMoniker": "BLLgrocery\\BLapi\\IBLsupplier.cs",
+              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLapi\\IBLsupplier.cs",
+              "RelativeToolTip": "BLLgrocery\\BLapi\\IBLsupplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T19:34:01.96Z",
+              "WhenOpened": "2025-04-07T23:41:21.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
+              "Title": "IBLorder.cs",
+              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLapi\\IBLorder.cs",
+              "RelativeDocumentMoniker": "BLLgrocery\\BLapi\\IBLorder.cs",
+              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLapi\\IBLorder.cs",
+              "RelativeToolTip": "BLLgrocery\\BLapi\\IBLorder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:40:24.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IBLorderItem.cs",
+              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLapi\\IBLorderItem.cs",
+              "RelativeDocumentMoniker": "BLLgrocery\\BLapi\\IBLorderItem.cs",
+              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLapi\\IBLorderItem.cs",
+              "RelativeToolTip": "BLLgrocery\\BLapi\\IBLorderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:40:47.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBLproduct.cs",
+              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLapi\\IBLproduct.cs",
+              "RelativeDocumentMoniker": "BLLgrocery\\BLapi\\IBLproduct.cs",
+              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLapi\\IBLproduct.cs",
+              "RelativeToolTip": "BLLgrocery\\BLapi\\IBLproduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:41:04.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBLuser.cs",
+              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLapi\\IBLuser.cs",
+              "RelativeDocumentMoniker": "BLLgrocery\\BLapi\\IBLuser.cs",
+              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\BLLgrocery\\BLapi\\IBLuser.cs",
+              "RelativeToolTip": "BLLgrocery\\BLapi\\IBLuser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T23:41:35.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DALgrocery\\AppDbContext.cs",
+              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\AppDbContext.cs",
+              "RelativeToolTip": "DALgrocery\\AppDbContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAnwBsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T20:30:05.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250407202240_InitialCreate.cs",
+              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\Migrations\\20250407202240_InitialCreate.cs",
+              "RelativeDocumentMoniker": "DALgrocery\\Migrations\\20250407202240_InitialCreate.cs",
+              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\Migrations\\20250407202240_InitialCreate.cs",
+              "RelativeToolTip": "DALgrocery\\Migrations\\20250407202240_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T20:22:41.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\grocery\\Program.cs",
               "RelativeDocumentMoniker": "grocery\\Program.cs",
@@ -289,21 +347,7 @@
               "RelativeToolTip": "grocery\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T13:15:22.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Supplier.cs",
-              "DocumentMoniker": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\DALmodels\\Supplier.cs",
-              "RelativeDocumentMoniker": "DALgrocery\\DALmodels\\Supplier.cs",
-              "ToolTip": "C:\\\u05D0\u05DC\u05D9\u05E9\u05D1\u05E2\\\u05DE\u05D1\u05D7\u05DF \u05D1\u05D9\u05EA \u05D4\u05D3\u05E1\u05D9\u05DD 5\\part D\\grocery\\DALgrocery\\DALmodels\\Supplier.cs",
-              "RelativeToolTip": "DALgrocery\\DALmodels\\Supplier.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T19:34:00.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T13:15:22.68Z"
             }
           ]
         }

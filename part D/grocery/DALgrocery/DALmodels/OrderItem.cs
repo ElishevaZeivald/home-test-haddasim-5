@@ -18,5 +18,7 @@ namespace DALgrocery.DALmodels
 
         public int Quantity { get; set; }
         public Decimal TotalPrice => Product != null ? Quantity * Product.PricePerItem : 0;
+
+        public decimal Price { get; set; }
     }
 }
