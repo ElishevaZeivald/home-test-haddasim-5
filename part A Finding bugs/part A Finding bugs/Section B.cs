@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Reflection.Metadata;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -82,7 +83,7 @@ namespace part_A
                     if (dates.ContainsKey(time))
                     {
                         dates[time]++;
-                          Console.WriteLine("there are duplicate dates in this file");
+                       // Console.WriteLine("there are duplicate dates in this file");
                         return true;
                     }
                     else
@@ -92,7 +93,7 @@ namespace part_A
                 }
 
             }
-               Console.WriteLine("there are not duplicate dates in that file");
+            //Console.WriteLine("there are not duplicate dates in that file");
             return false;
         }
 
@@ -101,54 +102,57 @@ namespace part_A
         {
             if (!DuplicateDates(inputFile))
             {
-                double[,] valuesSum = new double[24, 31];
-                double[,] counter = new double[24, 31];
+                double[,] valuesSum = new double[24, 32];
+                double[,] counter = new double[24, 32];
                 string[] lines = File.ReadAllLines(RemoveInvalidValue(inputFile));
                 Dictionary<DateTime, double> avgValue = new Dictionary<DateTime, double>();
-                int year;
-                int month;
+                int year = 0;
+                int month = 0;
                 DateTime time;
                 for (int i = 1; i < lines.Length; i++)
                 {
                     string line = lines[i];
                     string[] parts = line.Split(",");
                     time = DateTime.Parse(parts[0]);
-                    valuesSum[time.Hour, time.Day] += double.Parse(parts[1]);
-                    counter[time.Hour, time.Day]++;
-
-                }
-                for (int i = 0, j = 1; j < 30; i++)
-                {
-                    for (int n = 1; n < 2; n++)
+                    if (year == 0) // נשלוף את השנה והחודש רק פעם אחת
                     {
-                        string line = lines[i];
-                        string[] parts = line.Split(",");
-                        time = DateTime.Parse(parts[0]);
                         year = time.Year;
                         month = time.Month;
+                    }
 
-                        DateTime date = new DateTime(year, month, j, i, 0, 0);
-                        double val = valuesSum[i, j];
-                        double count = counter[i, j];
+                    int hour = time.Hour;
+                    int day = time.Day;
+                    valuesSum[hour, day] += double.Parse(parts[1]);
+                    counter[hour, day]++;
 
-                        avgValue.Add(date, val / count);
-                        if (i == 23)
+                }
+
+                // חישוב ממוצע לכל שעה ביום
+                for (int day = 1; day <= 31; day++)
+                {
+                    for (int hour = 0; hour < 24; hour++)
+                    {
+                        if (counter[hour, day] > 0)  // אם יש לפחות ערך אחד עבור השעה הזו
                         {
-                            i = 0;
-                            j++;
+                            double val = valuesSum[hour, day];
+                            double count = counter[hour, day];
+                            DateTime date = new DateTime(year, month, day, hour, 0, 0);
+                            avgValue.Add(date, val / count);  // הוספת הממוצע לדיקציהרי
                         }
                     }
                 }
+
+                // הדפסת התוצאות של הממוצעים
                 foreach (var a in avgValue)
                 {
-                    Console.WriteLine($"זמן התחלה:{a.Key},ממוצע:{a.Value}");
+                    Console.WriteLine($"זמן התחלה: {a.Key}, ממוצע: {a.Value}");
                 }
-
             }
         }
 
 
         private const string OUTPUT_FOLDER = "split_per_day";
+        private const string OUTPUT_FILE = "avg_all.csv";
 
         public static void splitPerDay(string inputFile)
         {
@@ -158,36 +162,51 @@ namespace part_A
             var title = lines[0];
             var linesValue = lines.Skip(1);
             Dictionary<int, List<string>> data = new Dictionary<int, List<string>>();
-           /* for (int i = 1; i < 2; i++)
-            {*/
-                //for (int j = 1; j < lines.Length; j++) { 
-/*                string line = lines[i];
-                string[] parts = line.Split(",");
-                DateTime time = DateTime.Parse(parts[0]);
-                int day = time.Day;*/
-                data = linesValue
-                   .GroupBy(d => DateTime.Parse(d.Split(",")[0]).Day)
-                   .ToDictionary(k => k.Key, v => v.ToList());
-                //}
-                foreach (var d in data)
+            data = linesValue
+               .GroupBy(d => DateTime.Parse(d.Split(",")[0]).Day)
+               .ToDictionary(k => k.Key, v => v.ToList());
+            //}
+            foreach (var d in data)
+            {
+                int fileName = d.Key;
+                List<string> fileValue = d.Value;
+
+                string outputFile = Path.Combine(OUTPUT_FOLDER, $"{fileName}.csv");
+                if (File.Exists(outputFile))
                 {
-                    int fileName = d.Key;
-                    List<string> fileValue = d.Value;
+                    File.Delete(outputFile);
+                }
+                File.WriteAllLines(outputFile, new[] { title }.Concat(fileValue));
+            }
 
-                    string outputFile = Path.Combine(OUTPUT_FOLDER, $"{fileName}.csv");
-                    File.WriteAllLines(outputFile, new[] { title }.Concat(fileValue));
+            string[] files = Directory.GetFiles(OUTPUT_FOLDER);
+            using (StreamWriter writer = new StreamWriter(OUTPUT_FILE, false, Encoding.UTF8))
 
+            // תופס את הפלט של Console.WriteLine
+            using (var sw = new StringWriter())
+            {
+                Console.SetOut(sw); // מכוון את הפלט ל-StringWriter במקום Console
+
+                foreach (var file in files)
+                {
+                    AvgPerHour(file); // לא מחזיר ערך אבל מדפיס
+                    string output = sw.ToString(); // תופס את הפלט שנשלח ל-Console
+                    writer.WriteLine(output); // כותב לקובץ
+                    sw.GetStringBuilder().Clear(); // מנקה את ה-StringWriter לפני הקריאה הבאה
                 }
 
-                string[] files = Directory.GetFiles(OUTPUT_FOLDER);
-                string[] arr = new string[files.Length];
-                for (int d=1;d<2;d++){
-                    string fileValue = files[d];
-                    AvgPerHour(fileValue);
-                /*}*/
-
+                // מחזיר את הפלט ל-Console הרגיל
+                Console.SetOut(new StreamWriter(Console.OpenStandardOutput()));
             }
+            //3
+            //במקום לחכות עד לקבלת כל הקבצים ואז ביצוע כל הנל בעת זרימת הנתונים נשמור ערכים 
+            //עבור כל שעה ובזמן אמת כשנכנס קובץ מחשבים את הממוצע עבור השעה הייעודית ומעדכנים
+            //את הממוצע שלה ואז נשמור את הזמן האחרון ששודר בכדי לקבוע לאיזו שעה הערך שייך
+            //ותוך כדי מחשבים ומעדכנים את הממוצע מיד עם קבלת כל ערך חדש
+
         }
     }
 }
+
+
 

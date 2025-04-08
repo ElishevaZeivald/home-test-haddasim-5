@@ -1,6 +1,7 @@
 ﻿using part_A;
 using System;
 using System.IO;
+using static System.Collections.Specialized.BitVector32;
 
 //סעיף א
 
@@ -18,6 +19,6 @@ using System.IO;
 
 //Section_B.RemoveInvalidValue("time_series.csv");
 
-Section_B.AvgPerHour("time_series.csv");
+//Section_B.AvgPerHour("time_series.csv");
 
 Section_B.splitPerDay("time_series.csv");
